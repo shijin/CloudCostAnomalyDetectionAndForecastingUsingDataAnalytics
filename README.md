@@ -40,7 +40,7 @@ The solution provides:
 - [x] Forecasting notebooks  
 - [x] Saved ML model (`isolation_forest_final.joblib`)  
 - [x] Forecast & anomaly CSVs  
-- [x] Power BI dashboard file (`Cloud_Cost_Analytics.pbix`)  
+- [x] Power BI [Dashboard](<iframe title="Cloud_Cost_Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDQ3MTkxZDktYTI3MS00OTZhLTg3YjEtNjljOTA0NzJhZGNiIiwidCI6IjY5NTYyNmRmLWQxMTctNDI3OC1iMzdkLTEyNTJlNGZkOGIwNyJ9" frameborder="0" allowFullScreen="true"></iframe>) file (`Cloud_Cost_Analytics.pbix`)  
 
 ## Dashboard Features
 - **Executive Overview** → KPIs, global spend trends.  
