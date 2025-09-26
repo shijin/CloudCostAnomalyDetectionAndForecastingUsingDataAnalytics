@@ -52,8 +52,8 @@ The solution provides:
 1. Clone this repo.  
 2. Install dependencies: `pip install -r requirements.txt`
 3. Access raw & cleaned files from [Google drive](https://drive.google.com/drive/folders/1gEp19NKV4JgQNqxtNcI_CK2HteuaY24I?usp=drive_link)
-   - Raw Files(cloud_usage_data.csv ➡ cloud_usage_datafile.parquet)
-   - Cleaned File (clean_cloud_date.parquet)
+   - Raw Files(`cloud_usage_data.csv` ➡ `cloud_usage_datafile.parquet`)
+   - Cleaned File (`clean_cloud_date.parquet`)
 5. Run Jupyter notebooks in order:  
    - `1_DataCleaning.ipynb`  
    - `2_ExploratoryDataAnalysis.ipynb`  
