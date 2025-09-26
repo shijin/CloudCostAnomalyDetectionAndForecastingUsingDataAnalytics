@@ -52,10 +52,10 @@ The solution provides:
 1. Clone this repo.  
 2. Install dependencies: `pip install -r requirements.txt`  
 3. Run Jupyter notebooks in order:  
-   - `01_data_cleaning.ipynb`  
-   - `02_eda.ipynb`  
-   - `03_anomaly_detection.ipynb`  
-   - `04_forecasting.ipynb`  
+   - `1_DataCleaning.ipynb`  
+   - `2_ExploratoryDataAnalysis.ipynb`  
+   - `3_AnomalyDetection.ipynb`  
+   - `4_ForecastingCloudCosts.ipynb`  
 4. Open `Cloud_Cost_Analytics.pbix` in Power BI for dashboards.
 
 ## Recommendations
@@ -65,5 +65,5 @@ The solution provides:
 - Adopt cloud FinOps practices for continuous monitoring.
 
 ## Contact
-Created by Shijin Ramesh.  
+Created by Shijin Ramesh
 [LinkedIn](https://www.linkedin.com/in/shijinramesh/) | [Portfolio](https://www.shijinramesh.co.in/)
